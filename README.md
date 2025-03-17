@@ -16,8 +16,8 @@ Antes de começar, certifique-se de que você tem os seguintes requisitos instal
 1. Clone o repositório:
 
    ```
-   git clone https://github.com/felpzw/talkama.git
-   cd talkama
+   git clone https://github.com/felpzw/Talkama.git
+   cd Talkama
    ```
 
 2. Instale as dependências do projeto:
@@ -46,18 +46,18 @@ Isso gerará um executável na pasta src-tauri/target/release (ou src-tauri/targ
 
 ## Como Usar
 
-    Configurar o Host:
+Configurar o Host:
 
-        Navegue até a aba "Host" e insira o endereço do servidor Ollama.
+    Navegue até a aba "Host" e insira o endereço do servidor Ollama.
 
-        Clique em "Testar Host" para verificar se o host está funcionando corretamente.
+    Clique em "Testar Host" para verificar se o host está funcionando corretamente.
 
-    Selecionar um Modelo:
+Selecionar um Modelo:
 
-        Navegue até a aba "Modelos" e selecione um modelo de linguagem disponível.
+    Navegue até a aba "Modelos" e selecione um modelo de linguagem disponível.
 
-    Enviar Mensagens:
+Enviar Mensagens:
 
-        Navegue até a aba "Chat" e comece a enviar mensagens de texto ou imagens.
+    Navegue até a aba "Chat" e comece a enviar mensagens de texto ou imagens.
 
-        Você pode arrastar e soltar uma imagem na área designada ou clicar em "Selecionar Imagem" para carregar uma imagem.
+    Você pode arrastar e soltar uma imagem na área designada ou clicar em "Selecionar Imagem" para carregar uma imagem.
